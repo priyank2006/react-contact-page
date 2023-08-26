@@ -2,7 +2,7 @@ const Navbar = () => {
     return (
         <nav>
             <div className="logo">
-                <img src="https://marvellifestyle.com/wp-content/themes/MyCallistus/images/marvel%20logo.jpg" alt="" />
+                <img src="https://s3.amazonaws.com/cdn.designcrowd.com/blog/100-Famous-Brand%20Logos-From-The-Most-Valuable-Companies-of-2020/apple-logo.png" alt="" />
             </div>
 
             <ul>
