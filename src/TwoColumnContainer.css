@@ -1,0 +1,57 @@
+.two-column-container {
+    margin-top: 1%;
+    display: flex;
+    max-width: 1300px;
+    justify-content: space-between;
+}
+
+.container-2 img {
+    width: 450px;
+}
+
+.btn-group {
+    display: flex;
+}
+
+.btn-group button {
+    all: unset;
+    background-color: black;
+    color: #fff;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 10px 35px;
+    text-align: center;
+}
+
+form {
+    width: 100%;
+    margin-top: 10%;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    text-align: left;
+}
+
+input {
+    all: unset;
+    width: 50%;
+    height: 30px;
+    background-color: #fff;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 7px 100px
+}
+
+textarea {
+    all: unset;
+    background-color: #fff;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 7px 100px;
+    width: 50%;
+}
